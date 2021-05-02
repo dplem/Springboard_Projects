@@ -1,0 +1,2 @@
+pandas==1.1.1
+featuretools==0.4.0
